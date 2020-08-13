@@ -34,7 +34,7 @@ function promptUser() {
     {
       type: "input",
       name: "license",
-      message: "License? MIT or None",
+      message: "License?[MIT, None]",
     },
     {
       type: "input",
